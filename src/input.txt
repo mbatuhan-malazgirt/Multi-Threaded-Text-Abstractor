@@ -1,0 +1,10 @@
+3 8 8
+virus pandemic global
+abstract_1.txt
+abstract_2.txt
+abstract_3.txt
+abstract_4.txt
+abstract_5.txt
+abstract_6.txt
+abstract_7.txt
+abstract_8.txt
